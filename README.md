@@ -1,3 +1,17 @@
+import Portfolio from './components/portfolio';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <Portfolio/>
+    </div>
+  );
+}
+
+export default App;
+
+
 # 🚀 Mohd Amaan Siddiqui - Portfolio
 
 Welcome to the source code of my personal portfolio website built using **React**, **Bootstrap**, and **AOS** for scroll animations. This site showcases my skills, projects, work experience, and client collaborations.
