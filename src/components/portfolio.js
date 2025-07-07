@@ -361,7 +361,7 @@ export default function Portfolio() {
                     <h2 className="text-center text-info fs-2 fw-bold mb-4">💼 Experience</h2>
                     <div className="text-light fs-5">
                         <div className="mb-4">
-                            <h5 className="text-info">Mafias Studioz – Frontend Developer</h5>
+                            <h5 className="text-info">Adtek – Frontend Developer</h5>
                             <p className="mb-1"><em>Nov 2023 – Present</em></p>
                             <ul>
                                 •  Develop responsive, SEO-friendly websites using HTML, CSS, JS, and React. <br/>
@@ -408,19 +408,19 @@ export default function Portfolio() {
                     <h2 className="text-center text-info fs-2 fw-bold mb-4">🤝Clients</h2>
                     <div className="row text-center text-white">
                         <div className="col-6 col-md-3 mb-4">
-                            <img src="/clients/client1.png" alt="Client 1" className="img-fluid mb-2" style={{ maxHeight: "45px" }} />
+                            //<img src="/clients/client1.png" alt="Client 1" className="img-fluid mb-2" style={{ maxHeight: "45px" }} />
                             <p className="mb-0">RiddTech</p>
                         </div>
                         <div className="col-6 col-md-3 mb-4">
-                            <img src="/clients/client2.png" alt="Client 2" className="img-fluid mb-2" style={{ maxHeight: "45px" }} />
+                           // <img src="/clients/client2.png" alt="Client 2" className="img-fluid mb-2" style={{ maxHeight: "45px" }} />
                             <p className="mb-0">Meat Amingo</p>
                         </div>
                         <div className="col-6 col-md-3 mb-4">
-                            <img src="/clients/client3.png" alt="Client 3" className="img-fluid mb-2" style={{ maxHeight: "45px" }} />
+                            //<img src="/clients/client3.png" alt="Client 3" className="img-fluid mb-2" style={{ maxHeight: "45px" }} />
                             <p className="mb-0">Mafias Studioz</p>
                         </div>
                         <div className="col-6 col-md-3 mb-4">
-                            <img src="/clients/client4.png" alt="Client 4" className="img-fluid mb-2" style={{ maxHeight: "45px" }} />
+                            //<img src="/clients/client4.png" alt="Client 4" className="img-fluid mb-2" style={{ maxHeight: "45px" }} />
                             <p className="mb-0">Adtek</p>
                         </div>
                     </div>
